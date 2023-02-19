@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/learning-api-sample-project/static/js/main.9c77a483.js",
+    "index.html": "/learning-api-sample-project/index.html",
+    "main.9c77a483.js.map": "/learning-api-sample-project/static/js/main.9c77a483.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9c77a483.js"
+  ]
+}
